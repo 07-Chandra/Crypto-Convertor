@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+
+}
+
+.crypto-card {
+  text-align: center;
+  width: 800px;
+  /* height: 500px; */
+  background-color: rgb(143, 166, 187);
+}
+
+.select-box {
+  display: flex;
+  justify-content: space-around;
+}
+
+.output {
+  font-size: 2rem;
+}
+.ant-select-selection-item {
+  width: 10px;
+  font-size: 25px;
+}
